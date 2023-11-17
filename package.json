@@ -14,7 +14,8 @@
     "@stripe/stripe-js": "^2.1.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.19.0"
+    "react-router-dom": "^6.19.0",
+    "vite-plugin-mkcert": "^1.16.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
